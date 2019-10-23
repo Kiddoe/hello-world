@@ -1,3 +1,4 @@
 # hello-world
 Hello world repository.
-Update from dev2
+
+Merging updates from dev2 and dev1
